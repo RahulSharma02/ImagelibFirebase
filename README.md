@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+In this project the front end is build using React and animations are embedded through framer motion, where as backend is build using firebase.
+The images that the user adds will be saved in the firebase database and then can be retrived in the front end part using hooks.
 ## Available Scripts
 
 In the project directory, you can run:
